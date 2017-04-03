@@ -1,0 +1,14 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+
+.registration-form {
+  margin-top: 7rem;
+}
+
+.warning {
+  margin-top: 1rem;
+  font-size: 14px;
+  color: red;
+}
